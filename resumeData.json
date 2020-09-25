@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name":"Sanjeevi Prasanth Kumar",
+    "occupation":"Full Stack Developer",
+    "description":"Dynamic & self motivated professional over Four year’s experience in software development to work with maximum potential in a challenging and vibrant environment, with an opportunity of working with diverse group of people and enhancing my professional skills with learning and experience for career growth.",
+    "image":"prasanth.jpg",
+    "bio":"I like building new stuff and work with other people – nothing really interesting is ever built alone!",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "githubprasanth@gmail.com",
+    "phone": "+91 7659914896",
+    "address":{
+      "street":"Maruthi Nagar",
+      "city":"Tirupathi",
+      "state":"Andhra Pradesh",
+      "zip": "517501"
+    },
+    "website": "",
+    "resumedownload":"https://reactprasanth.web.app/",
+    "social":[
+     
+     
+      {
+        "name":"github",
+        "url":"https://github.com/prasanthandroiddeveloper",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/Prasanth Android",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Bachelor of Engineering",
+        "graduated":"June 2014",
+        "description":"Graduated In Electronics and Communication Engineering from visveswarya Technological University."
+      },
+      {
+        "school":"Intermediate?",
+        "degree":"M.P.C",
+        "graduated":"March 2010",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Naestech Services Pvt Ltd.",
+        "title":"Associate Software Engineer",
+        "years":"June 2018 - June 2020",
+        "description":"Worked in Android and Web application development in the field of travel and education."
+      },
+      {
+        "company":"Srinivasan Software Solutions Pvt Ltd.",
+        "title":"Associate IT Consultant",
+        "years":"June 2020 - Present",
+        "description":"Working as Android and MERN Stack developer in the field of E-commerce and Construction Domains."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Core Java",
+        "level":"80%"
+      },
+      {
+        "name":"Core PHP",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript Es6",
+        "level":"80%"
+      },
+      {
+        "name":"XML",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"50%"
+      },
+      {
+        "name":"MySql",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Tripentra-Mobile App",
+        "category":"Travel Booking App"
+        
+      },
+      {
+        "title":"Go Tirupathi-Mobile App",
+        "category":"Yatra Advisor"
+        
+      },
+      {
+        "title":"TN Extranet-Mobile App",
+        "category":"Hotel Management"
+        
+      },
+      {
+        "title":"Tripnetra Leave Application-Mobile App",
+        "category":"HR Management"
+      },
+      {
+        "title":"MyHitha-Mobile App",
+        "category":"E-Commerce"
+        
+      },
+      {
+        "title":"Goshala-Mobile App",
+        "category":"E-Commerce"
+        
+      },
+      {
+        "title":"Mukkoti-Web App",
+        "category":"Spiritual"
+        
+      },
+      {
+        "title":"DCDR Infra-Web App",
+        "category":"Serivces"
+        
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
